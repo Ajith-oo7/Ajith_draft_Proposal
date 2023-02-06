@@ -14,7 +14,7 @@ I got the data from “The world bank group finances – The World Bank”. The 
 5) What will be your unit of analysis (for example, patient, organization, or country)? Roughly how many units (observations) do you expect to analyze?
 My unit of analysis is the countries, we will be working in 137 countries, with debt towards the World bank. And The Companies involved in the debt.
 
-6)What variables/measures do you plan to use in your analysis (variables should be tied to the questions in #3)?
+6) What variables/measures do you plan to use in your analysis (variables should be tied to the questions in #3)?
 I will be working on variables like Disbursed, undisbursed, and canceled Amounts for a country, Original, Principal, amount, Project/Company, region, country, Borrower, etc.
 
 7) What kinds of techniques/models do you plan to use (for example, clustering, NLP, ARIMA, etc.)?
